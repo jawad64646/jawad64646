@@ -205,9 +205,9 @@
 
 <hr>
 
-<h2 align="center">
-  💻 Code • 🧠 Learn • 🎨 Design • 📱 Build • 🚀 Repeat
-</h2>
+<p align="center">
+  <sub><code>while (alive) { code(); learn(); innovate(); }</code></sub>
+</p>
 
 <p align="center">
   <i>
