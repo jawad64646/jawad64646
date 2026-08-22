@@ -184,6 +184,7 @@
   🚀 Expanding my mobile & frontend skills toward <strong>Full-Stack Architecture</strong> 
   and integrating <strong>AI-powered features</strong> into real-world applications.
 </p>
+<hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
