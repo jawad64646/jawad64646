@@ -205,9 +205,9 @@
 
 <hr>
 
-<p align="center">
-  <sub><code>while (alive) { code(); learn(); innovate(); }</code></sub>
-</p>
+<h2 align="center">
+  • 🧠 Learn • 🎨 Design • 💻 Code  📱 Build • 🚀 Repeat
+</h2> change it its no unfashion
 
 <p align="center">
   <i>
