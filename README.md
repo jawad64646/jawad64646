@@ -171,7 +171,19 @@
 </p>
 
 <hr>
+<h2 align="center">🎯 Future Goals & Current Focus</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration">
+  <img src="https://img.shields.io/badge/LLM_APIs-6C63FF?style=for-the-badge" alt="LLM APIs">
+</p>
+
+<p align="center">
+  🚀 Expanding my mobile & frontend skills toward <strong>Full-Stack Architecture</strong> 
+  and integrating <strong>AI-powered features</strong> into real-world applications.
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
