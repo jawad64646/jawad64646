@@ -154,7 +154,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Software Architecture-6C63FF.svg?style=for-the-badge" alt="Software Architecture">
   <img src="https://img.shields.io/badge/System Design-FF9800.svg?style=for-the-badge" alt="System Design">
-  <img src="https://img.shields.io/badge/AI Engineering-412991.svg?style=for-the-badge" alt="AI Engineering">
+
 </p>
 
 <hr>
