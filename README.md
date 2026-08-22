@@ -173,12 +173,23 @@
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center"> <a href="https://github.com/jawad64646"> <img src="https://github-readme-stats.vercel.app/api?username=jawad64646&show_icons=true&theme=tokyonight&hide_border=true" alt="Jawad's GitHub Stats" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/jawad64646">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawad64646&theme=tokyonight" alt="Jawad's GitHub Profile Summary">
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/jawad64646"> <img src="https://streak-stats.demolab.com?user=jawad64646&theme=tokyonight&hide_border=true" alt="Jawad's GitHub Streak" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/jawad64646">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawad64646&theme=tokyonight" alt="Jawad's GitHub Stats">
+  </a>
+  <a href="https://github.com/jawad64646">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawad64646&theme=tokyonight" alt="Jawad's Most Used Languages">
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/jawad64646"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad64646&layout=compact&theme=tokyonight&hide_border=true" alt="Jawad's Top Languages" /> </a> </p>
 <hr>
 
 <h2 align="center">
