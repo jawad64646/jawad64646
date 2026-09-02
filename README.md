@@ -207,7 +207,7 @@
 
 <h2 align="center">
   • 🧠 Learn • 🎨 Design • 💻 Code  📱 Build • 🚀 Repeat
-</h2> change it its no unfashion
+</h2>
 
 <p align="center">
   <i>
