@@ -131,17 +131,26 @@
   Flutter • Dart • Firebase • SQLite • REST APIs
 </p>
 
-<h3>📅 Appointment Management</h3>
+<h3>🎵 HarmonyStream</h3>
 
 <p>
-  An appointment management application supporting personal
-  appointments and appointments shared between multiple users.
+  A Spotify-inspired music streaming application built with
+  <strong>Flutter, Firebase, Clean Architecture, and BLoC/Cubit</strong>.
+  HarmonyStream explores real-world Flutter development through
+  reactive data, authentication, state management, and reusable UI components.
+</p>
+
+<p>
+  <strong>Technologies:</strong>
+  Flutter • Dart • Firebase Authentication • Cloud Firestore •
+  BLoC/Cubit • GetIt • Dartz • Figma
 </p>
 
 <p>
   <strong>Focus:</strong>
-  Authentication • Database Design • Relationships •
-  Notifications • State Management • Architecture
+  Clean Architecture • Repository Pattern • UseCases •
+  Reactive Firestore Streams • Dependency Injection •
+  Functional Error Handling • Light & Dark Themes
 </p>
 
 <hr>
